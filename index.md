@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="style.css">
+
+
 # Digital Technologies in the Humanities
 
 **Assignment 1**  
