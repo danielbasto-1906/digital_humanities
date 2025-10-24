@@ -15,7 +15,7 @@ Daniel Baltazar de Almeida Basto
 3. [Emerging Technologies](#emerging-technologies)
 4. [Future of Technologies in the Humanities](#future-of-technologies-in-the-humanities)
 5. [Conclusion](#conclusion)
-6. [References](#references)
+6. [Bibliography](#bibliography)
 
 ---
 
