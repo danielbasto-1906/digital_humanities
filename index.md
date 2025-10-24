@@ -5,6 +5,17 @@ Daniel Baltazar de Almeida Basto
 
 ---
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Digital Technologies in European Studies](#digital-technologies-in-european-studies)
+3. [Emerging Technologies](#emerging-technologies)
+4. [Future of Technologies in the Humanities](#future-of-technologies-in-the-humanities)
+5. [Conclusion](#conclusion)
+6. [References](#references)
+
+---
+
 ## Introduction
 
 Over the years, the European continent has taken the helm of globalisation, and it was the Portuguese who started this process in the 15th century. With the maritime discoveries of that era, initiated by Portugal and later followed by other European powers, Europe opened its doors to the world and established cultural encounters with other peoples who had previously been unreachable. The golden age of Portuguese discoveries has therefore become an essential topic for understanding the transformations of the world with manifestations of European identity, culture, and values, spread across the seas crossed by Portuguese caravels. In a journey to the present day, the European legacy remains very much alive in all corners of the globe, through language, religion and other European characteristics, clearly visible in America, Africa, Asia and Oceania.
