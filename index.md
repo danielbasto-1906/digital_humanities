@@ -19,7 +19,7 @@ Daniel Baltazar de Almeida Basto
 
 ---
 
-## Introduction
+## Introduction (Thesis Topic)
 
 Over the years, the European continent has taken the helm of globalisation, and it was the Portuguese who started this process in the 15th century. With the maritime discoveries of that era, initiated by Portugal and later followed by other European powers, Europe opened its doors to the world and established cultural encounters with other peoples who had previously been unreachable. The golden age of Portuguese discoveries has therefore become an essential topic for understanding the transformations of the world with manifestations of European identity, culture, and values, spread across the seas crossed by Portuguese caravels. In a journey to the present day, the European legacy remains very much alive in all corners of the globe, through language, religion and other European characteristics, clearly visible in America, Africa, Asia and Oceania.
 
@@ -67,8 +67,12 @@ Ethical considerations and potential risks must be addressed to ensure responsib
 
 ## Bibliography
 
-- Capurro, C. (2023). Mapping European Digital Heritage Politics. *Digital Scholarship in the Humanities*, 38(2), 1–14. 
-- ALLEA. (2020). *Sustainable and FAIR data sharing in the humanities*. 
-- Papaioannou, C. (2025). Historical research in the digital age: Opportunities, challenges, and critical reflections through the case of Europeana. *Journal of Integrated Information Management*, 10(1), 19–24.  
-- Vlassenroot, E., Chambers, S., Di Pretoro, E., Geeraert, F., Haesendonck, G., Michel, A., & Mechant, P. (2019). Web archives as a data resource for digital scholars. *International Journal of Digital Humanities*, 1(1), 85–111. 
-- Wing, J. M. (2006). Computational thinking. *Communications of the ACM*, 49(3), 33–35. 
+Capurro, C. (2023). Mapping European Digital Heritage Politics. *Digital Scholarship in the Humanities*, 38(2), 1–14. 
+
+ALLEA. (2020). *Sustainable and FAIR data sharing in the humanities*. 
+
+Papaioannou, C. (2025). Historical research in the digital age: Opportunities, challenges, and critical reflections through the case of Europeana. *Journal of Integrated Information Management*, 10(1), 19–24. 
+
+Vlassenroot, E., Chambers, S., Di Pretoro, E., Geeraert, F., Haesendonck, G., Michel, A., & Mechant, P. (2019). Web archives as a data resource for digital scholars. *International Journal of Digital Humanities*, 1(1), 85–111. 
+
+Wing, J. M. (2006). Computational thinking. *Communications of the ACM*, 49(3), 33–35. 
