@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Technologies in the Humanities</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
+    h1, h2, h3 { color: #003366; }
+    blockquote { border-left: 3px solid #ccc; padding-left: 10px; color: #555; }
+    pre { background: #f4f4f4; padding: 10px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+
+<div id="content"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  const markdown = `# Digital Technologies in the Humanities
+
+## Introduction
+
+(Cola aqui todo o teu trabalho em Markdown)
+
+## References
+
+Capurro, C. (2023). Mapping European Digital Heritage Politics. *Digital Scholarship in the Humanities*, 38(2), 1–14. https://doi.org/10.1080/2159032X.2023.2266801
+
+ALLEA. (2020). *Sustainable and FAIR data sharing in the humanities*. Retrieved from https://www.ouvrirlascience.fr/wp-content/uploads/2020/02/ALLEA_Sustainable-and-FAIR-Data-Sharing-in-the-Humanities_February2020.pdf
+
+Papaioannou, C. (2025). Historical research in the digital age: Opportunities, challenges, and critical reflections through the case of Europeana. *Journal of Integrated Information Management*, 10(1), 19–24. https://doi.org/10.26265/jiim.v10i1.41305
+
+Vlassenroot, E., et al. (2019). Web archives as a data resource for digital scholars. *International Journal of Digital Humanities*, 1(1), 85–111. https://doi.org/10.1007/s42803-019-00007-7
+
+Wing, J. M. (2006). Computational thinking. *Communications of the ACM*, 49(3), 33–35. https://doi.org/10.1145/1118178.1118215
+`;
+
+  document.getElementById('content').innerHTML = marked(markdown);
+</script>
+
+</body>
+</html>
